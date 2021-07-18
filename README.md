@@ -8,7 +8,7 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 <img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/K6LQWZDmgFM8o/giphy.gif" />
 <br />
 
-![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deven96&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dozman99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ### Programming Languages 🌐
@@ -27,24 +27,23 @@ I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Develop
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
 |---|---|---|---|---|---|
 
 - Learning
 
-| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
+| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
 |---|---|
 
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/github.png" alt="github logo" width="34">](https://github.com/deven96)| [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/deven96)| [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/_deven96) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/9456514/diretnan-domnan) | [<img src="https://raw.githubusercontent.com/deven96/deven96/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/deven96)
+| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/github.png" alt="github logo" width="34">](https://github.com/dozman99)| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/dozman99)| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/_dozman99) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/9456514/diretnan-domnan) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/dozman99)
 |---|---|---|---|---|
 
 ### Personal Site
 
-Visit my site at [https://deven96.github.io](https://deven96.github.io)
-# dozman99
+Visit my site at [https://dozman99.github.io](https://dozman99.github.io)
 # dozman99
 # dozman99
