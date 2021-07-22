@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Diretnan from Plateau, Nigeria. Graduate Computer Engineer, Backend Developer, AI/ML Engineer and NerdStagram hobbyist. I think Naruto is the greatest anime of all time. My Pinned repositories show some of my open source work
+I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
+I also worked as Fullstack developer in prototyping applications for startup companies.
 
 
 
