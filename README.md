@@ -9,7 +9,7 @@ I also worked as Fullstack developer in prototyping applications for startup com
 <img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 <br />
 
-![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dozman99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dozman99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
 ### Programming Languages 🌐
