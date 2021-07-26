@@ -11,7 +11,7 @@ I also worked as Fullstack developer in prototyping applications for startup com
 
 <!-- ![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dozman99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-
+<!-- 
 ### Programming Languages 🌐
 
 - Know/Using
@@ -47,4 +47,4 @@ You can find and get touch with me on these accounts!
 
 Visit my site at [https://dozman99.github.io](https://dozman99.github.io)
 # dozman99
-# dozman99
+# dozman99 -->
