@@ -15,10 +15,9 @@ I also worked as Fullstack developer in prototyping applications for startup com
 
   I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
   I attained my B.Sc in Mechanical Engineering at one of the most reputable universities in Nigeria, the University of PortHacourt.
-  I am a certified Microsoft [DevOps Engineer Expert](https://www.credly.com/badges/d075be2b-5a3a-42d5-b402-6db5b023af78) and also hold certification in [AWS](https://www.credly.com/badges/78d17738-f6fa-48ab-b02a-8395b5309469), [PagerDuty](https://www.credly.com/badges/3bde2f69-b9b8-48c1-aa1d-aafd7a9019f5)
+  I am a certified Microsoft [DevOps Engineer Expert](https://www.credly.com/badges/d075be2b-5a3a-42d5-b402-6db5b023af78) and also hold certification in [AWS](https://www.credly.com/badges/78d17738-f6fa-48ab-b02a-8395b5309469), [PagerDuty](https://www.credly.com/badges/3bde2f69-b9b8-48c1-aa1d-aafd7a9019f5)...
 
   <br/>
-  <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
 ## 🔗 Know more about me 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
@@ -71,7 +70,7 @@ Terraform	![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?styl
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Some of my Github Stats!
+
 
 
 <br/>
