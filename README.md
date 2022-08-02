@@ -23,17 +23,16 @@ I also worked as Fullstack developer in prototyping applications for startup com
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1mtC1qzSRDNIto6zbCRYMfAeHbpbAcu1rBpjidB4OeZ8/edit#)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](chiedozieonyekwum@outlook.com)
-[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/chiedozie-onyekwum/)
-[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/Dozman_99)
-[![Reddit](https://img.shields.io/badge/@mehtansh-black.svg?&style=for-the-badge&logo=Reddit&logoColor=red)](https://reddit.com/mehtansh)
-[![HackerRank](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://hackerrank.com/mehtansh)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/chiedozie-onyekwum/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Dozman_99)
+
 
 
 ## 🛠 Languages and Tools:
 
 #### Scripting-tools:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-Terraform	![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Cloud:
