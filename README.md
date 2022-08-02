@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1mtC1qzSRDNIto6zbCRYMfAeHbpbAcu1rBpjidB4OeZ8/edit#)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](chiedozieonyekwum@outlook.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/chiedozie-onyekwum/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiedozie-onyekwum/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Dozman_99)
 
 
