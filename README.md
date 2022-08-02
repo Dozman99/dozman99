@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
-I also worked as Fullstack developer in prototyping applications for startup companies.
-
-
-
-<br />
-<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
-<br />
 
 <p align="center">
-<h1>👋, I am Chiedozie. Nice to connect!</h2> 
+<h1>I am Chiedozie. Nice to have you here!</h2> 
 </p>
 
   I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
@@ -36,7 +28,6 @@ I also worked as Fullstack developer in prototyping applications for startup com
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Cloud:
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -55,10 +46,6 @@ I also worked as Fullstack developer in prototyping applications for startup com
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-#### Hosting:
-
 
 #### Others:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
