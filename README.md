@@ -9,42 +9,69 @@ I also worked as Fullstack developer in prototyping applications for startup com
 <img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 <br />
 
-<!-- ![Diretnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dozman99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<p align="center">
+<h1>👋, I am Chiedozie. Nice to connect!</h2> 
+</p>
 
-<!-- 
-### Programming Languages 🌐
+  I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
+  I attained my B.Sc in Mechanical Engineering at one of the most reputable universities in Nigeria, the University of PortHacourt.
+  I am a certified Microsoft [DevOps Engineer Expert](https://www.credly.com/badges/d075be2b-5a3a-42d5-b402-6db5b023af78) and also hold certification in [AWS](https://www.credly.com/badges/78d17738-f6fa-48ab-b02a-8395b5309469), [PagerDuty](https://www.credly.com/badges/3bde2f69-b9b8-48c1-aa1d-aafd7a9019f5)
 
-- Know/Using
+  <br/>
+  <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
-| [<img src="https://raw.githubusercontent.com/Dozman99/dozman99/main/logos/Ansible.png" alt="ansible logo" width="24">] | [<img src="https://raw.githubusercontent.com/Dozman99/dozman99/main/logos/aws.png" alt="aws logo" width="24">](https://https://aws.amazon.com) | [<img src="https://raw.githubusercontent.com/Dozman99/dozman99/main/logos/python.png" alt="python logo" width="38">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/tensorflow/tensorflow.png" alt="tensorflow logo" width="24">]
-|---|---|---|---|---|---|
+## 🔗 Know more about me 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1mtC1qzSRDNIto6zbCRYMfAeHbpbAcu1rBpjidB4OeZ8/edit#)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](chiedozieonyekwum@outlook.com)
+[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/chiedozie-onyekwum/)
+[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/Dozman_99)
+[![Reddit](https://img.shields.io/badge/@mehtansh-black.svg?&style=for-the-badge&logo=Reddit&logoColor=red)](https://reddit.com/mehtansh)
+[![HackerRank](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://hackerrank.com/mehtansh)
 
-- Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala logo" width="24">](https://www.scala-lang.org/)|
-|---|---|---|
+## 🛠 Languages and Tools:
 
-### Tools 🛠️
+#### Scripting-tools:
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+Terraform	![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- Know/Using
+#### Cloud:
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/)) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim logo" width="24">](https://www.vim.org/) |  [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
-|---|---|---|---|---|---|
+#### Monitoring:
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-- Learning
 
-| [<img src="http://securityaffairs.co/wordpress/wp-content/uploads/2014/12/google-app-engine.png" alt="appengine logo" width="36">](https://cloud.google.com/appengine) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)|
-|---|---|
+#### Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Other Accounts 📫
 
-You can find and get touch with me on these accounts!
+#### Hosting:
 
-| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/github.png" alt="github logo" width="34">](https://github.com/dozman99)| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/dozman99)| [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/_dozman99) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/9456514/diretnan-domnan) | [<img src="https://raw.githubusercontent.com/dozman99/dozman99/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/dozman99)
-|---|---|---|---|---|
 
-### Personal Site
+#### Others:
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code%20-%230070D1.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Visit my site at [https://dozman99.github.io](https://dozman99.github.io)
-# dozman99
-# dozman99 -->
+## Some of my Github Stats!
+
+
+<br/>
