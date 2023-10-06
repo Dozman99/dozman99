@@ -5,12 +5,12 @@
 <h1>I am Chiedozie. Nice to have you here!</h2> 
 </p>
 
-  I'm a person who has a knack for solving problems and also keen on improving my skillset as a DevOps Engineer.
+  I'm a person who has a knack for solving problems and is also keen on improving my skillset as a DevOps Engineer.
   I attained my B.Sc in Mechanical Engineering at one of the most reputable universities in Nigeria, the University of PortHacourt.
   I am a certified Microsoft [DevOps Engineer Expert](https://www.credly.com/badges/d075be2b-5a3a-42d5-b402-6db5b023af78) and also hold certification in [AWS](https://www.credly.com/badges/78d17738-f6fa-48ab-b02a-8395b5309469), [PagerDuty](https://www.credly.com/badges/3bde2f69-b9b8-48c1-aa1d-aafd7a9019f5)...
 
   <br/>
-I have worked with AKS, configured HPA, and monitored the environment using Kibana and fluent bit (just recently migrated to Datadog) configured alerts and tests, use Azure DevOps pipelines to handle and manage our deployment to AKS, and managed secrets using Vault. I am very effective at responding to incidents, and proficient in analyzing system SLO in order to meet up your desired SLA. I'm security conscious using proactive measures in mitigating attacks at different OSI layers and infrastructure/architectural layers, implemented various vulnerability indicators within my CI/CD pipeline. lastly, I pose different managerial abilities with regard to cloud policies on best practices across various cloud platforms over my years of experience. 
+I have worked with AKS, configured HPA, and monitored the environment using Kibana and Fluent bit, migration to Datadog) configured alerts and tests used Azure DevOps pipelines to handle and manage our deployment to AKS, and managed secrets using Vault. I am very effective at responding to incidents, and proficient in analyzing system SLO to meet your desired SLA. I'm security conscious, using proactive measures to mitigate attacks at different OSI and infrastructure/architectural layers implementing various vulnerability indicators within my CI/CD pipeline. Lastly, I possess different managerial abilities regarding cloud policies and best practices across various cloud platforms over my years of experience. 
   <br/>
 
 ## 🔗 Know more about me 
